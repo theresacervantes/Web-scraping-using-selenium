@@ -1,6 +1,8 @@
 # Web-scraping-using-selenium
 
-I was wondering which DMV to go to, so I came up with this little code this morning. 
+I was wondering which DMV to go to, so I came up with this code this morning. 
+
+Still need to solve the reCAPTCHA.
 
 ### Scrape DMV website
 
